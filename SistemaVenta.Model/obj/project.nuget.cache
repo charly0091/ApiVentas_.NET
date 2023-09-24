@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dWFLUy9R8iP2qVRNzM4fdSC202QTvpcQwO/8+A38JU+9r1MZjL5a+VtA8iGSZklmS1xITWuB5Drdb/W/XSC6Jw==",
+  "dgSpecHash": "3ivO2LLVht/SkDXlFa2qR/Njyiy+utlg8D/L0EGEUI0smCC5UvChdIWt6LyFOnS3a5pdp2VRT53MyusrXuzNlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+  "projectFilePath": "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\charly\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\charly\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

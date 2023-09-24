@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaVenta.BLL
-build_property.ProjectDir = C:\Users\charly\Desktop\Programacion\c#\APISistemaDeVenta\SistemaVenta.BLL\
+build_property.ProjectDir = C:\Users\charly\Desktop\Programacion\SistemaVentas\APISistemaDeVenta\SistemaVenta.BLL\

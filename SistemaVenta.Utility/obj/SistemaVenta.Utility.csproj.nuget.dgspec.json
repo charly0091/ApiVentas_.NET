@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {}
+    "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+    "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
         "projectName": "SistemaVenta.DTO",
-        "projectPath": "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+        "projectPath": "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
         "packagesPath": "C:\\Users\\charly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.DTO\\obj\\",
+        "outputPath": "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\charly\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+    "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectUniqueName": "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
         "projectName": "SistemaVenta.Model",
-        "projectPath": "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectPath": "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
         "packagesPath": "C:\\Users\\charly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.Model\\obj\\",
+        "outputPath": "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\charly\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+    "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
         "projectName": "SistemaVenta.Utility",
-        "projectPath": "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+        "projectPath": "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
         "packagesPath": "C:\\Users\\charly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.Utility\\obj\\",
+        "outputPath": "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\charly\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,11 +150,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
-                "projectPath": "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
+              "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+                "projectPath": "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
               },
-              "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-                "projectPath": "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+              "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+                "projectPath": "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
               }
             }
           }

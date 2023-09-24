@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I4h/McAtAtbQ1tzGzlwRQBWHUIWZMJ6/xhnzC4W7rFG6QvCUOlGohejUvLrqABOtjFhSNKC3gkMhYwg8vWyidg==",
+  "dgSpecHash": "heNDstTjImJds9XHY8+455N2T/80xLRg4u92bVvKtx+VN6hK8L7X7BkY8qL33rsaDvrOdGg2SC+D7bHQLVmoNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+  "projectFilePath": "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\charly\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\charly\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

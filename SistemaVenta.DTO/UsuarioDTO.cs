@@ -14,6 +14,7 @@ namespace SistemaVenta.DTO
 
         public string? Correo { get; set; }
 
+        public int? IdRol { get; set; }
         public string? RolDescripcion { get; set; }
 
         public string? Clave { get; set; }

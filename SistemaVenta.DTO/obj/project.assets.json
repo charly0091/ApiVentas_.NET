@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
       "projectName": "SistemaVenta.DTO",
-      "projectPath": "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+      "projectPath": "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
       "packagesPath": "C:\\Users\\charly\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\charly\\Desktop\\Programacion\\c#\\APISistemaDeVenta\\SistemaVenta.DTO\\obj\\",
+      "outputPath": "C:\\Users\\charly\\Desktop\\Programacion\\SistemaVentas\\APISistemaDeVenta\\SistemaVenta.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\charly\\AppData\\Roaming\\NuGet\\NuGet.Config",
