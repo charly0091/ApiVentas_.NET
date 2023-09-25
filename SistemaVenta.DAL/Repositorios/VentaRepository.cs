@@ -45,6 +45,7 @@ namespace SistemaVenta.DAL.Repositorios
                     correlativo.FechaRegistro = DateTime.Now;
 
                     _dbcontext.NumeroDocumentos.Update(correlativo);
+                    await _dbcontext.SaveChangesAsync();
 
                     int CantidadDigitos = 4;
                     string ceros = string.Concat(Enumerable.Repeat("0", CantidadDigitos));

@@ -8,7 +8,7 @@ namespace SistemaVenta.DTO
 {
     public class DetalleVentaDTO
     { 
-        public int? idProdicto { get; set; }
+        public int? idProducto { get; set; }
         public string? DescripcionProducto { get; set; }
         public int? Cantidad { get; set; }
         public string? PrecioTexto { get; set; }
