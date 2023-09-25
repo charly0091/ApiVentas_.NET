@@ -662,6 +662,7 @@
         "dependencies": {
           "SistemaVenta.BLL": "1.0.0",
           "SistemaVenta.DAL": "1.0.0",
+          "SistemaVenta.Model": "1.0.0",
           "SistemaVenta.Utility": "1.0.0"
         },
         "runtime": {
